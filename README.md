@@ -1,5 +1,3 @@
-<h1 align="center">MySql</h1>
- 
  
 ## Data Definition Language (DDL) commands of MySQL:
 
