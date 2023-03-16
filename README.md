@@ -39,4 +39,3 @@
    ```bash
    TRUNCATE TABLE table_name;
    ```
-
